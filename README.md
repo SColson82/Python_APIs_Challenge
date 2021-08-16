@@ -29,5 +29,5 @@ Then, finally, the map of hotels was overlaid onto the first heatmap:
 
 ## I've always wanted to visit Brazil!!
 
-![image](https://user-images.githubusercontent.com/83737584/129640795-a8503c5e-9d1b-45e6-9aa5-f0f4df54ddb9.png)
+
 
