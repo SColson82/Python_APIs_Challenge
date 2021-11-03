@@ -29,5 +29,12 @@ Then, finally, the map of hotels was overlaid onto the first heatmap:
 
 ## I've always wanted to visit Brazil!!
 
+<hr>
+
+Contact:
+
+* https://www.linkedin.com/in/sharon-colson-515222210/
+* sharon.colson@gmail.com
+
 
 
